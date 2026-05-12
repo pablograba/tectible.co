@@ -3,3 +3,12 @@
 _site/
 *.qmd~
 *~
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Local test posts (keep local, don't track in git)
+posts/30-day-stabilize-ai-stack.qmd
+posts/cto-guide-risk-free-ai-adoption.qmd
+posts/why-llm-evals-fail-production.qmd
+resources.qmd_template

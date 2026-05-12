@@ -1,9 +1,0 @@
----
-title: "The CTO Guide to Risk-Free AI Adoption"
-date: 2026-04-10
-description: "What to ask before funding an LLM initiative and how to design milestones that protect budget and credibility."
-author: "Your Name"
-categories: [strategy, adoption]
----
-
-Use this post as a template for practical guidance focused on production-ready AI adoption.
