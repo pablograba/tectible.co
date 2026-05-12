@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site          # your current setting – keep it
+  resources:
+    - CNAME
+
+website:
+  title: "Pablo Baretto"
+  description: "A concise one- or two-sentence description of the site (meta description)"
+  site-url: "https://tectible.co"         
+  favicon: "favicon.ico"                   
+  open-graph: true                         
+  twitter-card: true                       
+  navbar:
+    background: light
+    title: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Services"
+        href: services.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Resources"
+        href: resources.qmd
+  page-footer:
+    left: "Copyright © Pablo Baretto 2026"
+    right:
+      - icon: github
+        href: "https://github.com/pablograba"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/pgbaretto/"
+      - icon: twitter
+        href: "https://x.com/pgBaretto"
+  google-analytics: "G-KBGSY4KGPW"
+    
+
+search: true
+        
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
+    include-in-header:
+      text: |
+        <script async src="https://tally.so/widgets/embed.js"></script>

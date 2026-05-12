@@ -1,0 +1,8 @@
+# Replace each VIDEO_ID_* token in both image and path with your real YouTube video ID.
+
+- title: "Tackling LLM inaccuracies with AI Evaluations"
+  date: 2025-11-27
+  description: " In this video, I uncover the root causes of AI inaccuracies and how error analysis-based AI evals can make your app truly shine."
+  image: "https://i.ytimg.com/vi/At5liFn6h08/hqdefault.jpg" # Replace VIDEO_ID_CTO_PILOTS
+  path: "https://www.youtube.com/watch?v=At5liFn6h08" # Replace VIDEO_ID_CTO_PILOTS
+

@@ -1,0 +1,9 @@
+---
+title: "Why Most LLM Evals Fail in Production"
+date: 2026-03-22
+description: "Common evaluation mistakes and the architectural choices that prevent regressions from reaching users."
+author: "Your Name"
+categories: [evaluation, reliability]
+---
+
+Use this post as a template for explaining evaluation pitfalls and practical fixes.

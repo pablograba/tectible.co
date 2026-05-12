@@ -1,0 +1,31 @@
+---
+title: "Resources"
+description: "Practical content on LLM reliability, AI risk and evaluation frameworks for CTOs and engineering leaders."
+listing:
+  - id: videos
+    contents: videos.yml
+    type: grid
+    sort: "date desc"
+    fields: [image, title, date, description]
+    image-height: 220px
+    grid-columns: 3
+  - id: posts
+    contents: posts
+    type: default
+    sort: "date desc"
+    fields: [title, date, description]
+---
+
+Follow me: <a href="https://x.com/pgBaretto" target="_blank" style="margin-left:0.5rem;margin-right:0.75rem;"><i class="bi bi-twitter-x fs-5"></i></a><a href="https://www.linkedin.com/in/pgbaretto/" target="_blank" style="margin-right:0.75rem;"><i class="bi bi-linkedin fs-5"></i></a><a href="https://github.com/pablograba" target="_blank"><i class="bi bi-github fs-5"></i></a>
+
+## Videos
+
+:::{#videos}
+:::
+
+## Writing
+
+:::{#posts}
+:::
+
+[Request a Consultation](#){.btn .btn-primary .btn-lg .consultation-cta data-tally-open="eqKl2J" data-tally-emoji-text="👋" data-tally-emoji-animation="wave"}

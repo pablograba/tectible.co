@@ -1,0 +1,91 @@
+
+
+
+---
+pagetitle: "Home"
+title: "Hi, I'm Pablo Baretto"
+description: "I help companies build AI that actually reaches production."
+---
+
+::: {.grid .hero-intro}
+
+::: {.g-col-12 .g-col-md-3 .photo-col}
+![](images/pablo_baretto_headshot.jpg){fig-alt="Pablo G Baretto" .img-fluid .headshot-image}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+
+As a software engineer with over 20 years of experience architecting and building large-scale data systems for companies such as Orange Telecom and Telefónica, I have spent the recent years designing and shipping production-grade AI applications for numerous mid-market teams.
+
+Over the last half-decade, I’ve seen the same challenges come up again and again…
+
+- CTOs struggling to define where AI starts, how it fits their company and what the real ROI is.
+- Promising prototypes that look great in demos but fall apart (or become unreliable) once they hit real production.
+- AI outputs drifting, hallucinating, or showing biases at the worst possible moments.
+- Strong engineering teams that still aren't using AI tools and practices to work 10× faster.
+
+That's exactly why I now focus on helping mid-market companies turn those challenges into practical, production-ready AI.
+
+:::
+
+:::
+
+## How I can help
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+::: {.service-card}
+### Your First AI Win
+You see competitors moving ahead with AI and need a clear path that doesn’t risk your core operations or reputation.
+
+I help you build an AI roadmap by selecting a non-critical business process and architecting a production-grade, low-friction solution. This allows you to gain familiarity with AI implementation through a low-risk project that protects your professional reputation while creating a foundation for future scaling.
+
+[→ See full details](services.qmd#practical-ai-planning)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.service-card}
+### Production-Grade AI Architecture
+You have a solid AI idea or working demo, but you're worried about it falling apart when it needs to scale in real production.
+
+I help design the architecture from day one so scalability, security and reliability are baked in, no wasted time or budget turning a prototype into something that can actually can run at scale.
+
+[→ See full details](services.qmd#production-grade-ai-architecture)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.service-card}
+### Data-Driven AI Evaluation System
+Your AI application looked great in demos, but hallucinations, biases and unexpected errors are blocking it from going live.
+
+I work with you to analyze your specific failure modes and build automated evaluations that catch problems before they reach your users.
+
+[→ See full details](services.qmd#data-driven-ai-evaluation)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.service-card}
+### AI Engineering Acceleration
+Your developers and infrastructure folks excel at what they do, but they're not yet using AI tools and practices to boost their performance 10x.
+
+I provide hands-on, customized guidance so your team can work noticeably faster and smarter.
+
+[→ See full details](services.qmd#ai-engineering-acceleration)
+
+
+
+:::
+
+:::
+
+:::
+---
+
+::: {.text-center .consultation-section}
+
+[Request a Consultation](#){.btn .btn-primary .btn-lg .consultation-cta data-tally-open="eqKl2J" data-tally-emoji-text="👋" data-tally-emoji-animation="wave"}
+

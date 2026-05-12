@@ -1,0 +1,9 @@
+---
+title: "A 30-Day Plan to Stabilize Your AI Stack"
+date: 2026-02-14
+description: "A tactical roadmap to establish observability, quality gates, and rollout discipline in under a month."
+author: "Your Name"
+categories: [operations, rollout]
+---
+
+Use this post as a template for tactical execution plans with weekly milestones.
