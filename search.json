@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Follow me:"
+  },
+  {
+    "objectID": "resources.html#videos",
+    "href": "resources.html#videos",
+    "title": "Resources",
+    "section": "Videos",
+    "text": "Videos\n\n\n\n\n\n\n\n\n\n\nTackling LLM inaccuracies with AI Evaluations\n\n\nIn this video, I uncover the root causes of AI inaccuracies and how error analysis-based AI evals can make your app truly shine.\n\n\n\nNov 27, 2025\n\n\n\n\n\n\nNo matching items\n\nRequest a Consultation"
+  },
+  {
+    "objectID": "posts/30-day-stabilize-ai-stack.html",
+    "href": "posts/30-day-stabilize-ai-stack.html",
+    "title": "A 30-Day Plan to Stabilize Your AI Stack",
+    "section": "",
+    "text": "Use this post as a template for tactical execution plans with weekly milestones."
+  },
+  {
+    "objectID": "posts/why-llm-evals-fail-production.html",
+    "href": "posts/why-llm-evals-fail-production.html",
+    "title": "Why Most LLM Evals Fail in Production",
+    "section": "",
+    "text": "Use this post as a template for explaining evaluation pitfalls and practical fixes."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Your First AI Win\nProduction-Grade AI Architecture\nData-Driven AI Evaluation System\nAI Engineering Acceleration"
+  },
+  {
+    "objectID": "services.html#your-first-ai-win",
+    "href": "services.html#your-first-ai-win",
+    "title": "Services",
+    "section": "Your First AI Win",
+    "text": "Your First AI Win\nDoes this sound familiar?\n\nUncertainty on where to start: You know AI is a priority, but the point of entry feels moving and unclear.\nQuestions on ROI, risks, and privacy: You’re balancing the potential upside against significant concerns about data security and cost-effectiveness.\nAnxiety about competitor progress: There is a growing pressure to move forward so you don’t fall behind the curve.\nConcerns about costs and required skills: You aren’t sure if your current team has the right tools or if the budget will spiral out of control.\n\nWhile every company wants to leverage AI, the jump from “interest” to “production” is often where momentum stalls. The most common hurdle isn’t a lack of vision, but the risk of choosing a high-stakes project that could threaten core operations or your professional reputation if it falters.\nBy focusing on a non-critical business process, we can architect a production-grade, low-friction solution that provides immediate value without the high-stakes pressure. This approach allows your organization to gain hands-on familiarity with AI implementation in a controlled, low-risk environment.\nYou’ll receive a comprehensive implementation roadmap, including a full technical architecture, detailed cost estimates, and a skills needs assessment.\nInterested in exploring this together?\nRequest a Consultation"
+  },
+  {
+    "objectID": "services.html#production-grade-ai-architecture",
+    "href": "services.html#production-grade-ai-architecture",
+    "title": "Services",
+    "section": "Production-Grade AI Architecture",
+    "text": "Production-Grade AI Architecture\nDoes this sound familiar?\n\nFear of wasting money: You’re worried that a promising demo won’t hold up once it needs to scale in the real world.\nRisks regarding security and data privacy: You need a guarantee that your architecture protects sensitive information at every layer.\nNeed for de-risking the AI investment: You want to ensure that the transition from prototype to product is smooth and doesn’t require a complete rebuild.\n\nIt’s easy to build a prototype that looks impressive in a controlled demo, but the real challenge lies in building a system that remains reliable when thousands of users hit it at once. Many teams find themselves stuck in a cycle of “prototype debt,” where early shortcuts become expensive bottlenecks later.\nI help you design your AI architecture from day one with scalability, security, and reliability baked into the DNA. By focusing on the structural foundation early, we ensure that no time or budget is wasted trying to force a fragile demo into a production environment it wasn’t built to handle.\nThe result is a robust, production-ready blueprint that includes scalability frameworks and detailed cost requirements. You gain a clear path forward that de-risks your investment and ensures your AI application is a solid, long-term asset rather than a temporary experiment.\nInterested in exploring this together?\nRequest a Consultation"
+  },
+  {
+    "objectID": "services.html#data-driven-ai-evaluation-system",
+    "href": "services.html#data-driven-ai-evaluation-system",
+    "title": "Services",
+    "section": "Data-Driven AI Evaluation System",
+    "text": "Data-Driven AI Evaluation System\nDoes this sound familiar?\n\nHallucinations and inaccuracies: You’ve seen great demos, but unexpected errors are blocking your path to a live launch.\nGeneric metrics that don’t work: Standard testing isn’t catching the specific failure modes unique to your application.\nCTO credibility risks: You’re hesitant to ship because one public AI “hallucination” could damage customer trust and your reputation.\n\nShipping an AI product without a rigorous evaluation system is like flying a plane without a dashboard. If you can’t measure why your model is failing, you can’t fix it—and “vibes-based” testing isn’t enough to satisfy stakeholders or protect your brand.\nI work with you to analyze your application’s specific failure modes and build custom, automated evaluators. These systems catch hallucinations, biases, and unexpected errors before they ever reach your users, turning unpredictable outputs into measurable data points.\nWe will implement a data-driven error analysis and a collection of system traces that allow you to monitor your app’s performance in real-time. This reliability layer gives you the confidence to move from a “working demo” to a “deployed product” with total transparency.\nInterested in exploring this together?\nRequest a Consultation"
+  },
+  {
+    "objectID": "services.html#ai-engineering-acceleration",
+    "href": "services.html#ai-engineering-acceleration",
+    "title": "Services",
+    "section": "AI Engineering Acceleration",
+    "text": "AI Engineering Acceleration\nDoes this sound familiar?\n\nUntapped potential: Your developers and infrastructure folks are excellent at their core jobs, but they aren’t yet leveraging modern AI tools to their full potential.\nInefficient workflows: Your team is still bogged down by manual coding, documentation, or infrastructure management that could be automated.\nNeed for a performance boost: You want to see a noticeable jump in how fast and smart your technical team can work across the board.\n\nYour engineering team is likely your most valuable resource, but the “old way” of working is becoming a bottleneck in an AI-first world. The gap between a traditional team and an AI-accelerated team is no longer a marginal difference—it’s a 10x performance multiplier.\nI provide hands-on, customized guidance that integrates modern AI practices directly into your team’s existing daily workflows. We don’t just talk about theory; we use tools like Claude Code and AI-assisted DevOps to streamline how your engineers build, test, and deploy software.\nThrough technical workshops and tailored training, your team will learn how to automate the repetitive parts of their jobs so they can focus on high-level architecture and problem-solving. This isn’t just about speed; it’s about building a smarter, more agile engineering culture.\nInterested in exploring this together?\nRequest a Consultation"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Pablo Baretto",
+    "section": "",
+    "text": "I help companies to plan practical AI initiatives, design production-grade architectures, evaluate AI systems with real data and accelerate their AI engineering efforts."
+  },
+  {
+    "objectID": "resume.html#request-a-consultation",
+    "href": "resume.html#request-a-consultation",
+    "title": "Pablo Baretto",
+    "section": "Request a Consultation",
+    "text": "Request a Consultation\n\nExperience\n\n2021 – Present: AI Architecture and Development Consultant (Freelance)\nI engage in long-term consulting commitments (up to 2 years) with mid-market companies and venture-backed startups, designing system architectures and leading development of core AI-driven functionalities. Projects focus on building production-grade, high-accuracy AI systems in regulated or data-intensive domains.\nHealthcare Startup (USA)\nAI-powered compliance platform that analyzes mental-health provider reports to ensure insurance compliance.\n\nProblem: Insurance payers reject claims at high rates due to imprecise or non-compliant language, causing revenue loss and administrative burden.\n\nSolution: Architected and developed the core generative AI compliance engine. Implemented a data-driven AI evaluation framework + human-in-the-loop error analysis to overcome LLM hallucinations and biases.\n\nResults: Achieved sustained 98% accuracy. Only ~2 reports per day now require human review, drastically reducing manual effort while minimizing claim denial risks.\n\nLegal SaaS Startup (Spain)\nAgentic RAG-based AI chatbot SaaS that answers legal questions for users in Ecuador, grounded in current national laws (owned by a prominent law firm).\n\nProblem: Manual legal research was time-intensive and error-prone; keeping the knowledge base updated was slow and risked hallucinations or SLA penalties.\n\nSolution: Built an automated real-time data processing pipeline for laws + developed an agentic RAG application with precise citations and rigorous AI evaluation frameworks.\n\nResults: Reached 99% response accuracy, reduced human review to 1% of cases, and cut time spent answering client questions by ~90%.\n\nMatchbook AI (USA)\nSaaS master data management platform integrating and unifying company/asset data for S&P 500 clients.\n\nProblem: Fragmented, inconsistent records across sources led to poor insights, duplicates, and SLA breaches. Legacy Elasticsearch matching required heavy manual intervention.\n\nSolution: Designed and led development of a new ML/AI-based matching engine + full automation of the legacy Elasticsearch system.\n\nResults: Handles ~500 million initial records + ~1 million daily updates (15% above targets) and powers the core platform for ~50 S&P 500 clients. Legacy automation eliminated all manual processes, cut processing time by 35%, and reduced SLA breaches to zero.\n\nSonarplatform.io (EU)\nSaaS platform for blockchain transaction analytics and AI-driven trading insights.\n\nProblem: Indexing billions of transactions with low-latency queries was technically challenging and resource-intensive.\n\nSolution: Architected and led development of the core blockchain data platform (scalable ingestion, indexing, and query layers).\n\nResults: Indexes ~1 billion transaction records across 10+ Ethereum networks, handles ~3,000 tx/s in real time, and delivers API responses in &lt;800 ms (p95).\n\nAI driven Startup (USA)\nSaaS platform for personalized AI chatbots/companions using users’ own data.\n\nProblem: Low-latency, high-accuracy search over large personal data volumes was difficult with traditional indexing.\n\nSolution: Architected the personal information search subsystem (high-throughput indexing pipeline + hybrid lexical + vector search backend).\n\nResults: Processes up to 200 MB/s for thousands of users; search delivers highly accurate results in &lt;500 ms.\n\n\n\n2015 – 2021: Logicalis (Spain)\nIT services and consulting firm (part of the global Logicalis Group) focused on AI, data analytics, cloud, and digital transformation. Progressed from Cloud Solutions Architect to Data Analytics Solutions Architect.\nKey Projects (Telecom & Enterprise Clients): - Orange: Architected and led development of a unified log and metrics processing platform (Elasticsearch-inspired stack).\nResults: Reduced MTTD by ~55%, MTTR by 45%, unplanned downtime by 30–40%, and manual log analysis effort by &gt;60%. - Delivered multiple production implementations and PoCs for Vodafone, Telefónica, FNMT, Grupo Piñero, La Caixa, Ocaso, AENA, and Catalana Occidente, enabling centralized observability and faster digital operations.\n\n\n2006 – 2015: Senior Data Analytics Consultant\nFocused on analytics for IT monitoring and support systems.\n\nFacilDesk (Founder): Open-source IT monitoring (Elasticsearch) + ticketing (OTRS) with analytics for Latin American mid-sized firms.\nNotable clients: Mitsubishi Motor Company (+67% customer satisfaction), Agroamerica, Cerámicas Caribe, Bancaribe (43% faster incident response).\nSun Microsystems Contractor (Venezuela): Data-centric monitoring for telcos (CANTV, Movilnet, Telefónica) and oil & gas (PDVSA, ENI).\n\n\n\n2001 – 2006: Sun Microsystems (Venezuela)\nJava trainer and consulting in northern Latin America.\n\n\n\n\nCertifications\n\nGoogle Cloud Professional Data Engineer (2020)\nElasticsearch Certified Engineer (2020)\n\n\n\nEducation\n\nSystems Engineer, Universidad de Los Andes (Venezuela), 2001\nMaster’s in Marketing Management, Universidad Complutense de Madrid (Spain)\n\n\nRequest a Consultation"
+  },
+  {
+    "objectID": "posts/cto-guide-risk-free-ai-adoption.html",
+    "href": "posts/cto-guide-risk-free-ai-adoption.html",
+    "title": "The CTO Guide to Risk-Free AI Adoption",
+    "section": "",
+    "text": "Use this post as a template for practical guidance focused on production-ready AI adoption."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Pablo Baretto",
+    "section": "",
+    "text": "As a software engineer with over 20 years of experience architecting and building large-scale data systems for companies such as Orange Telecom and Telefónica, I have spent the recent years designing and shipping production-grade AI applications for numerous mid-market teams.\nOver the last half-decade, I’ve seen the same challenges come up again and again…\n\nCTOs struggling to define where AI starts, how it fits their company and what the real ROI is.\nPromising prototypes that look great in demos but fall apart (or become unreliable) once they hit real production.\nAI outputs drifting, hallucinating, or showing biases at the worst possible moments.\nStrong engineering teams that still aren’t using AI tools and practices to work 10× faster.\n\nThat’s exactly why I now focus on helping mid-market companies turn those challenges into practical, production-ready AI."
+  },
+  {
+    "objectID": "index.html#how-i-can-help",
+    "href": "index.html#how-i-can-help",
+    "title": "Hi, I’m Pablo Baretto",
+    "section": "How I can help",
+    "text": "How I can help\n\n\n\nYour First AI Win\nYou see competitors moving ahead with AI and need a clear path that doesn’t risk your core operations or reputation.\nI help you build an AI roadmap by selecting a non-critical business process and architecting a production-grade, low-friction solution. This allows you to gain familiarity with AI implementation through a low-risk project that protects your professional reputation while creating a foundation for future scaling.\n→ See full details\n\n\n\n\nProduction-Grade AI Architecture\nYou have a solid AI idea or working demo, but you’re worried about it falling apart when it needs to scale in real production.\nI help design the architecture from day one so scalability, security and reliability are baked in, no wasted time or budget turning a prototype into something that can actually can run at scale.\n→ See full details\n\n\n\n\nData-Driven AI Evaluation System\nYour AI application looked great in demos, but hallucinations, biases and unexpected errors are blocking it from going live.\nI work with you to analyze your specific failure modes and build automated evaluations that catch problems before they reach your users.\n→ See full details\n\n\n\n\nAI Engineering Acceleration\nYour developers and infrastructure folks excel at what they do, but they’re not yet using AI tools and practices to boost their performance 10x.\nI provide hands-on, customized guidance so your team can work noticeably faster and smarter.\n→ See full details\n\n\n\n\n\nRequest a Consultation"
+  }
+]
