@@ -11,6 +11,19 @@
   margin-bottom: 1.5rem;
 }
 
+.hero-copy > h1 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.hero-copy > p {
+  margin-bottom: 1rem;
+}
+
+.hero-copy > p:last-child {
+  margin-bottom: 0;
+}
+
 .headshot-image {
   width: 180px;
   height: 180px;
@@ -124,8 +137,26 @@ hr {
   color: #9aa0a6;
 }
 
+.cta-with-note {
+  margin: 1.15rem 0 0.25rem;
+}
+
+.cta-with-note .consultation-note {
+  margin-top: 0.55rem;
+  max-width: 38rem;
+  font-size: 0.75rem;
+  font-style: italic;
+  line-height: 1.45;
+  color: #2ecc71;
+}
+
+.cta-with-note .consultation-note p {
+  margin-bottom: 0;
+}
+
 .consultation-cta {
-  margin-bottom: 0.0rem;
+  margin-top: 1.15rem;
+  margin-bottom: 0;
 }
 
 .consultation-section > p {
@@ -139,4 +170,149 @@ hr {
 #listing-videos .thumbnail-image {
   width: 100%;
   height: auto !important;
+}
+
+/* Homepage focus areas with green numbered markers */
+.focus-areas {
+  margin: 0.5rem 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.focus-item {
+  display: grid;
+  grid-template-columns: 2.5rem 1fr;
+  column-gap: 1.15rem;
+  align-items: start;
+}
+
+.focus-marker {
+  width: 2.3rem;
+  height: 2.3rem;
+  border-radius: 50%;
+  border: 2px solid #2ecc71;
+  background: transparent;
+  color: #2ecc71;
+  font-weight: 700;
+  font-size: 0.95rem;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.15rem;
+  flex-shrink: 0;
+}
+
+.focus-marker p {
+  margin: 0;
+}
+
+.focus-body {
+  min-width: 0;
+}
+
+.focus-body > h3 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.85rem;
+}
+
+@media (max-width: 575.98px) {
+  .focus-item {
+    column-gap: 0.85rem;
+  }
+
+  .focus-marker {
+    width: 2rem;
+    height: 2rem;
+    font-size: 0.85rem;
+  }
+}
+
+/* Vertical M&A pipeline workflow */
+.pipeline-workflow {
+  margin: 1.75rem 0 0.5rem;
+}
+
+.pipeline-step {
+  position: relative;
+  display: grid;
+  grid-template-columns: 2.5rem 1fr;
+  column-gap: 1.15rem;
+  padding-bottom: 2.25rem;
+  scroll-margin-top: 4.5rem;
+}
+
+.pipeline-step:last-child {
+  padding-bottom: 0;
+}
+
+.pipeline-step:not(:last-child)::before {
+  content: "";
+  position: absolute;
+  left: 1.15rem;
+  top: 2.5rem;
+  bottom: 0;
+  width: 2px;
+  background: rgba(255, 255, 255, 0.22);
+  transform: translateX(-50%);
+}
+
+.pipeline-marker {
+  width: 2.3rem;
+  height: 2.3rem;
+  border-radius: 50%;
+  border: 2px solid var(--bs-link-color);
+  background: var(--bs-body-bg);
+  color: var(--bs-link-color);
+  font-weight: 700;
+  font-size: 0.95rem;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  margin-top: 0.15rem;
+}
+
+.pipeline-marker p {
+  margin: 0;
+}
+
+.pipeline-body {
+  min-width: 0;
+}
+
+.pipeline-body > h3 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.pipeline-stage {
+  color: #9aa0a6;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.85rem;
+}
+
+.pipeline-stage p {
+  margin: 0;
+}
+
+@media (max-width: 575.98px) {
+  .pipeline-step {
+    column-gap: 0.85rem;
+    padding-bottom: 1.85rem;
+  }
+
+  .pipeline-marker {
+    width: 2rem;
+    height: 2rem;
+    font-size: 0.85rem;
+  }
+
+  .pipeline-step:not(:last-child)::before {
+    left: 1rem;
+    top: 2.2rem;
+  }
 }
