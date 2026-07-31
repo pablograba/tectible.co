@@ -1,102 +1,144 @@
 ---
-title: "Services"
-description:  "I partner with teams who want AI that delivers in the real world. I help with practical planning, production-grade architecture, thoughtful evaluations, and speeding up delivery so your AI projects finally cross the finish line."
+title: "Enterprise-Grade AI applied to Traditional Business M&A"
+pagetitle: "Services"
+description: "I leverage 20+ years of engineering experience to help small PE teams and search funds assess, plan, and deploy technology in legacy acquisitions. I identify operational improvements, hunt for signals that could ruin automation budgets, and execute the roadmaps required to turn potential into a concrete EBITDA win."
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header {
+        text-align: center;
+      }
+      </style>
 ---
 
 
 
-- [Your First AI Win](#your-first-ai-win)
-- [Production-Grade AI Architecture](#production-grade-ai-architecture)
-- [Data-Driven AI Evaluation System](#data-driven-ai-evaluation-system)
-- [AI Engineering Acceleration](#ai-engineering-acceleration)
+## The Advisory & Implementation Pipeline
+
+::: {.pipeline-workflow}
+
+::: {#phase-0 .pipeline-step}
+::: {.pipeline-marker}
+0
+:::
+
+::: {.pipeline-body}
+### The Teaser Automation Screener
+::: {.pipeline-stage}
+Public Teaser Review
+:::
+
+**Filter the noise before you even sign the NDA.**
+Searchers review hundreds of proprietary teasers and lower-middle-market listings. To help you source the right deals, I provide a free, specialized assessment tool to analyze a teaser’s basic metrics (industry, headcount, revenue) and instantly score its automation potential.
+
+* **Best for:** Top-of-funnel deal sourcing and filtering.
+* **Deliverable:** An instant "Automation Potential Score" to tell you if the industry and operational profile are ripe for margin expansion.
+* **Investment:** Free.
+
+::: {.cta-with-note}
+[Get the Free AI prompt to assess automation potential.](#){.btn .btn-primary .btn-lg .consultation-cta}
+
+::: {.consultation-note}
+Copy and paste this prompt into your preferred AI (ChatGPT, Claude, Gemini, Grok, or whatever) and get a preliminary AI-based analysis of the automation potential of the listing.
+:::
+:::
+:::
+:::
+
+::: {#phase-1 .pipeline-step}
+::: {.pipeline-marker}
+1
+:::
+
+::: {.pipeline-body}
+### Pre-LOI AI Upside Screener
+::: {.pipeline-stage}
+Post-NDA
+:::
+
+**Discover hidden value before you submit an offer.**
+Once you sign the NDA and receive the Confidential Information Memorandum (CIM), you need to know quickly if the target has low-hanging operational fruit. I review the target’s financial and operational profile to identify where automation can replace manual bottlenecks and increase capacity without adding headcount.
+
+* **Best for:** Validating your investment thesis before submitting an LOI.
+* **Deliverable:** A concise **AI Upside Memo** estimating potential operational savings, revenue capacity increases, and a preliminary assessment of workforce adaptability.
+* **Investment:** *Currently offering pilot pricing for new search fund partners.*
+
+[Discuss the Tech of an Active Acquisition](https://calendly.com/){.btn .btn-primary .btn-lg .consultation-cta target="_blank"}
+:::
+:::
+
+::: {#phase-2 .pipeline-step}
+::: {.pipeline-marker}
+2
+:::
+
+::: {.pipeline-body}
+### Technical & Data Due Diligence
+::: {.pipeline-stage}
+Post-LOI
+:::
+
+**De-risk the technology stack during exclusivity.**
+Once under LOI, you have a limited window to find the skeletons in the IT closet. I go under the hood of the target company to evaluate their current systems, data silos, technical debt, and readiness for modern AI integration, ensuring the team is actually equipped to handle a digital transition.
+
+* **Best for:** The 60-90 day due diligence window.
+* **Deliverable:** A comprehensive **Technical DD Report** highlighting security risks, immediate upgrade costs, and a clear path to technological integration.
+* **Investment:** Fixed fee based on company size and tech footprint.
+
+[Discuss the Tech of an Active Acquisition](https://calendly.com/){.btn .btn-primary .btn-lg .consultation-cta target="_blank"}
+:::
+:::
+
+::: {#phase-3 .pipeline-step}
+::: {.pipeline-marker}
+3
+:::
+
+::: {.pipeline-body}
+### The Value Creation & Day-100 Roadmap
+::: {.pipeline-stage}
+Pre- or Post-Close
+:::
+
+**A concrete blueprint to secure investor buy-in or hit the ground running.**
+Whether you need a finalized CapEx budget to present to your investors before closing, or you just got the keys and need to know where to start, I architect the exact technical strategy required to modernize the company. We determine what off-the-shelf SaaS to buy, what automations to build, and how to roll these changes out to the staff to ensure high adoption rates.
+
+* **Best for:** Finalizing investor memos pre-close, or strategic alignment immediately post-close.
+* **Deliverable:** A prioritized, step-by-step **Implementation Roadmap** including required CapEx, OPEX, and projected ROI.
+* **Investment:** Flat project fee.
+
+[Discuss the Tech of an Active Acquisition](https://calendly.com/){.btn .btn-primary .btn-lg .consultation-cta target="_blank"}
+:::
+:::
+
+::: {#phase-4 .pipeline-step}
+::: {.pipeline-marker}
+4
+:::
+
+::: {.pipeline-body}
+### Enterprise AI & Automation Deployment
+::: {.pipeline-stage}
+Post-Close Execution
+:::
+
+**Execution from a 20-year software engineering veteran.**
+I don't just advise; I build. Whether integrating modern Field Service Management (FSM) systems, building custom API workflows, or deploying **Holobrain**—my scalable, air-gapped private AI stack for companies with strict data privacy needs—I execute the roadmap to realize the EBITDA gains we projected. I handle the technical heavy lifting while ensuring the frontline workers are comfortable and confident with the new systems.
+
+* **Best for:** Long-term value creation and operational scaling.
+* **Deliverable:** Working, deployed systems and comprehensive team training.
+* **Investment:** Fractional CTO retainer or milestone-based project fee.
+
+[Discuss the Tech of an Active Acquisition](https://calendly.com/){.btn .btn-primary .btn-lg .consultation-cta target="_blank"}
+:::
+:::
+
+:::
 
 ---
 
-## Your First AI Win {#your-first-ai-win}
+## Why Me?
 
-**Does this sound familiar?**
-
-- Uncertainty on where to start: You know AI is a priority, but the point of entry feels moving and unclear.
-
-- Questions on ROI, risks, and privacy: You’re balancing the potential upside against significant concerns about data security and cost-effectiveness.
-
-- Anxiety about competitor progress: There is a growing pressure to move forward so you don't fall behind the curve.
-
-- Concerns about costs and required skills: You aren't sure if your current team has the right tools or if the budget will spiral out of control.
-
-While every company wants to leverage AI, the jump from "interest" to "production" is often where momentum stalls. The most common hurdle isn't a lack of vision, but the risk of choosing a high-stakes project that could threaten core operations or your professional reputation if it falters.
-
-By focusing on a non-critical business process, we can architect a production-grade, low-friction solution that provides immediate value without the high-stakes pressure. This approach allows your organization to gain hands-on familiarity with AI implementation in a controlled, low-risk environment.
-
-You’ll receive a comprehensive implementation roadmap, including a full technical architecture, detailed cost estimates, and a skills needs assessment.
-
-*Interested in exploring this together?* 
-
-[Request a Consultation](#){.btn .btn-primary .btn-lg .consultation-cta data-tally-open="eqKl2J" data-tally-emoji-text="👋" data-tally-emoji-animation="wave"}
-
-
----
-
-## Production-Grade AI Architecture {#production-grade-ai-architecture}
-
-**Does this sound familiar?**
-
-- Fear of wasting money: You’re worried that a promising demo won't hold up once it needs to scale in the real world.
-
-- Risks regarding security and data privacy: You need a guarantee that your architecture protects sensitive information at every layer.
-
-- Need for de-risking the AI investment: You want to ensure that the transition from prototype to product is smooth and doesn't require a complete rebuild.
-
-It’s easy to build a prototype that looks impressive in a controlled demo, but the real challenge lies in building a system that remains reliable when thousands of users hit it at once. Many teams find themselves stuck in a cycle of "prototype debt," where early shortcuts become expensive bottlenecks later.
-
-I help you design your AI architecture from day one with scalability, security, and reliability baked into the DNA. By focusing on the structural foundation early, we ensure that no time or budget is wasted trying to force a fragile demo into a production environment it wasn't built to handle.
-
-The result is a robust, production-ready blueprint that includes scalability frameworks and detailed cost requirements. You gain a clear path forward that de-risks your investment and ensures your AI application is a solid, long-term asset rather than a temporary experiment.
-
-*Interested in exploring this together?*
-
-[Request a Consultation](#){.btn .btn-primary .btn-lg .consultation-cta data-tally-open="eqKl2J" data-tally-emoji-text="👋" data-tally-emoji-animation="wave"}
-
----
-
-## Data-Driven AI Evaluation System {#data-driven-ai-evaluation-system}
-
-**Does this sound familiar?**
-
-- Hallucinations and inaccuracies: You’ve seen great demos, but unexpected errors are blocking your path to a live launch.
-
-- Generic metrics that don't work: Standard testing isn't catching the specific failure modes unique to your application.
-
-- CTO credibility risks: You’re hesitant to ship because one public AI "hallucination" could damage customer trust and your reputation.
-
-Shipping an AI product without a rigorous evaluation system is like flying a plane without a dashboard. If you can’t measure why your model is failing, you can’t fix it—and "vibes-based" testing isn't enough to satisfy stakeholders or protect your brand.
-
-I work with you to analyze your application’s specific failure modes and build custom, automated evaluators. These systems catch hallucinations, biases, and unexpected errors before they ever reach your users, turning unpredictable outputs into measurable data points.
-
-We will implement a data-driven error analysis and a collection of system traces that allow you to monitor your app's performance in real-time. This reliability layer gives you the confidence to move from a "working demo" to a "deployed product" with total transparency.
-
-*Interested in exploring this together?*
-
-[Request a Consultation](#){.btn .btn-primary .btn-lg .consultation-cta data-tally-open="eqKl2J" data-tally-emoji-text="👋" data-tally-emoji-animation="wave"}
-
----
-
-## AI Engineering Acceleration {#ai-engineering-acceleration}
-
-**Does this sound familiar?**
-
-- Untapped potential: Your developers and infrastructure folks are excellent at their core jobs, but they aren’t yet leveraging modern AI tools to their full potential.
-
-- Inefficient workflows: Your team is still bogged down by manual coding, documentation, or infrastructure management that could be automated.
-
-- Need for a performance boost: You want to see a noticeable jump in how fast and smart your technical team can work across the board.
-
-Your engineering team is likely your most valuable resource, but the "old way" of working is becoming a bottleneck in an AI-first world. The gap between a traditional team and an AI-accelerated team is no longer a marginal difference—it’s a 10x performance multiplier.
-
-I provide hands-on, customized guidance that integrates modern AI practices directly into your team's existing daily workflows. We don't just talk about theory; we use tools like Claude Code and AI-assisted DevOps to streamline how your engineers build, test, and deploy software.
-
-Through technical workshops and tailored training, your team will learn how to automate the repetitive parts of their jobs so they can focus on high-level architecture and problem-solving. This isn't just about speed; it's about building a smarter, more agile engineering culture.
-
-*Interested in exploring this together?*
-
-[Request a Consultation](#){.btn .btn-primary .btn-lg .consultation-cta data-tally-open="eqKl2J" data-tally-emoji-text="👋" data-tally-emoji-animation="wave"}
+* **20+ Years of Experience:** I have spent two decades building large-scale backends and enterprise data processing solutions. I know what it takes to make software actually work in the real world.
+* **Business-First Mindset:** I don't build tech for tech's sake. Every line of code or software subscription must tie back to operational efficiency and enterprise value.
+* **Human-Centric AI Augmentation:** The biggest risk in modernization is employee resistance. I architect AI automations specifically to enhance human capabilities, not replace them.

@@ -1,5 +1,11 @@
 # Replace each VIDEO_ID_* token in both image and path with your real YouTube video ID.
 
+- title: "Can AI make this 60-Year-Old Manual Business more profitable?"
+  date: 2026-07-31
+  description: "Exploring a real-world listing for a 60-year-old manual HVAC business reveals how targeted technology upgrades can significantly streamline outdated operations. By implementing Field Service Management (FSM) software and AI communication tools, a traditional company can automate scheduling and quoting to handle higher service volumes without increasing office payroll. This breakdown covers a practical modernization plan, estimated setup costs, the projected financial impact, and strategies for smoothly transitioning an experienced workforce to digital workflows."
+  image: "https://i.ytimg.com/vi/Mju72SUlRbM/hqdefault.jpg"
+  path: "https://www.youtube.com/watch?v=Mju72SUlRbM"
+
 - title: "Tackling LLM inaccuracies with AI Evaluations"
   date: 2025-11-27
   description: " In this video, I uncover the root causes of AI inaccuracies and how error analysis-based AI evals can make your app truly shine."
