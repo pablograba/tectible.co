@@ -1,16 +1,23 @@
 project:
   type: website
-  output-dir: _site          # your current setting – keep it
+  output-dir: _site
   resources:
     - CNAME
+    - robots.txt
+    - favicon.png
+    - favicon.ico
 
 website:
-  title: "Pablo Baretto"
-  description: "A concise one- or two-sentence description of the site (meta description)"
-  site-url: "https://tectible.co"         
-  favicon: "favicon.ico"                   
-  open-graph: true                         
-  twitter-card: true                       
+  title: "Pablo G. Baretto"
+  description: "Practical AI consulting for PE and search funds acquiring traditional businesses, plus private air-gapped LLM deployments."
+  site-url: "https://tectible.co"
+  image: "/images/pablo_baretto_headshot.jpg"
+  favicon: "favicon.png"
+  llms-txt: true
+  open-graph: true
+  twitter-card:
+    creator: "@pgBaretto"
+    site: "@pgBaretto"
   navbar:
     background: light
     title: false
@@ -24,7 +31,7 @@ website:
       - text: "Resources"
         href: resources.qmd
   page-footer:
-    left: "Copyright © Pablo Baretto 2026"
+    left: "Copyright © Pablo G. Baretto 2026"
     right:
       - icon: github
         href: "https://github.com/pablograba"
@@ -33,16 +40,16 @@ website:
       - icon: twitter
         href: "https://x.com/pgBaretto"
   google-analytics: "G-KBGSY4KGPW"
-    
 
 search: true
-        
 
 format:
   html:
     theme: darkly
     css: styles.css
     toc: false
+    canonical-url: true
     include-in-header:
-      text: |
-        <script async src="https://tally.so/widgets/embed.js"></script>
+      - file: _includes/seo-jsonld.html
+      - text: |
+          <script async src="https://tally.so/widgets/embed.js"></script>

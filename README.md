@@ -4,7 +4,7 @@
 
 ## About
 
-[tectible.co](https://tectible.co) is the professional website of **Pablo Baretto**.
+[tectible.co](https://tectible.co) is the professional website of **Pablo G. Baretto**.
 
 With over 20 years of experience architecting and building large-scale data systems for companies such as **Orange Telecom** and **Telefónica**, Pablo has spent the last several years designing and shipping production-grade AI applications for mid-market teams.
 

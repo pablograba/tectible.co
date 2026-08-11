@@ -1,6 +1,6 @@
 ---
-pagetitle: "Resume"
-title: "Pablo Baretto"
+pagetitle: "Resume | Pablo G. Baretto"
+title: "Pablo G. Baretto"
 description: "Senior Software Engineer with over 20 years of experience as a Solutions Architect and Data Engineer. In recent years, I have specialized in developing AI applications and consulting companies on how to build reliable, production-grade AI solutions that actually reach production."
 ---
 I help companies to plan practical AI initiatives, design production-grade architectures, evaluate AI systems with real data and accelerate their AI engineering efforts.

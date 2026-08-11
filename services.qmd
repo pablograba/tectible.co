@@ -1,6 +1,6 @@
 ---
 title: "Enterprise-Grade AI applied to Traditional Business M&A"
-pagetitle: "Services"
+pagetitle: "Services | AI for Business M&A | Pablo G. Baretto"
 description: "I leverage 20+ years of engineering experience to help small PE teams and search funds assess, plan, and deploy technology in legacy acquisitions. I identify operational improvements, hunt for signals that could ruin automation budgets, and execute the roadmaps required to turn potential into a concrete EBITDA win."
 include-in-header:
   - text: |

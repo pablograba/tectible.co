@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+pagetitle: "Resources | Pablo G. Baretto"
 description: "Practical content and real world experiences on building AI that actually reaches production."
 listing:
   - id: videos
