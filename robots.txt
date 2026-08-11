@@ -1,1 +1,118 @@
+# Allow all crawlers — search engines and AI agents
+User-agent: *
+Allow: /
+# Placeholder/draft blog posts — remove this Disallow when posts go live
+Disallow: /posts/
+
+# Major search engines
+User-agent: Googlebot
+Allow: /
+Disallow: /posts/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /posts/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /posts/
+
+User-agent: Applebot
+Allow: /
+Disallow: /posts/
+
+# OpenAI (ChatGPT search + training)
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /posts/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /posts/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /posts/
+
+# Anthropic (Claude)
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /posts/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /posts/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /posts/
+
+# Google AI / Gemini extended indexing
+User-agent: Google-Extended
+Allow: /
+Disallow: /posts/
+
+User-agent: Google-NotebookLM
+Allow: /
+Disallow: /posts/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /posts/
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+Disallow: /posts/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /posts/
+
+# xAI / Grok (tokens appear in crawler directories; treat as allow)
+User-agent: Grok
+Allow: /
+Disallow: /posts/
+
+User-agent: GrokBot
+Allow: /
+Disallow: /posts/
+
+User-agent: xAI
+Allow: /
+Disallow: /posts/
+
+User-agent: xAI-Bot
+Allow: /
+Disallow: /posts/
+
+# Other common AI crawlers
+User-agent: Amazonbot
+Allow: /
+Disallow: /posts/
+
+User-agent: CCBot
+Allow: /
+Disallow: /posts/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /posts/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /posts/
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /posts/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /posts/
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /posts/
+
 Sitemap: https://tectible.co/sitemap.xml

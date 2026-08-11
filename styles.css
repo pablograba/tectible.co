@@ -172,6 +172,31 @@ hr {
   height: auto !important;
 }
 
+/* Homepage focus areas: side-by-side with separator */
+.focus-columns {
+  margin: 0.5rem 0 1.5rem;
+  align-items: start;
+}
+
+.focus-column > h2 {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .focus-column-right {
+    border-left: 1px solid rgba(255, 255, 255, 0.22);
+    padding-left: 1.5rem;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .focus-column-right {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.22);
+  }
+}
+
 /* Homepage focus areas with green numbered markers */
 .focus-areas {
   margin: 0.5rem 0 1.5rem;

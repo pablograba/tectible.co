@@ -1,0 +1,10 @@
+# Pablo G. Baretto
+
+> Practical AI consulting for PE and search funds acquiring traditional businesses, plus private air-gapped LLM deployments.
+
+## Pages
+
+- [Resources](https://tectible.co/resources.llms.md)
+- [Enterprise-Grade AI applied to Traditional Business M&A](https://tectible.co/services.llms.md)
+- [Pablo G. Baretto](https://tectible.co/resume.llms.md)
+- [Hello, I'm Pablo G. Baretto.](https://tectible.co/index.llms.md)
