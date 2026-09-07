@@ -2,9 +2,16 @@
 pagetitle: "Resume | Pablo G. Baretto"
 title: "Pablo G. Baretto"
 description: "20+ years as a solutions architect and data engineer. I specialize in production AI systems that ship: RAG, evals, search and the data platforms underneath them."
+include-in-header:
+  - text: |
+      <style>
+      main.content hr {
+        border: 0;
+        border-top: 1px solid #2ecc71;
+        opacity: 1;
+      }
+      </style>
 ---
-
-20+ years as a solutions architect and data engineer. I specialize in production AI systems that ship: RAG, evals, search and the data platforms underneath them.
 
 I help mid-market companies adopt AI without assuming a fixed reference architecture stack, perfect data governance, or a specific vendor. I start from each company’s in-house capacity, privacy constraints, cost shape, existing IT-vendor agreements, and cloud footprint, then design and implement an AI stack that fits. As a result, adoption is low-risk, affordable, secure, scalable, and they take it on in stages.
 
