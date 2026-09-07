@@ -33,10 +33,9 @@ Provide hands-on, customized guidance so your developers and infrastructure team
 
 ## What’s on the Site
 
-- **Services** – Detailed offerings for each of the four areas above
-- **Blog** – Practical guides on stabilizing AI stacks, risk-free AI adoption, and why LLM evals fail in production
-- **Resources** – Tools, templates, and knowledge for AI practitioners
+- **Home** – Two focus areas: AI for traditional business M&A, and private air-gapped LLM deployments
 - **Resume** – Pablo’s full professional background
+- **Resources** – Practical videos and material on building AI that reaches production
 
 ## Tech Stack
 

@@ -6,6 +6,7 @@ project:
     - robots.txt
     - favicon.png
     - favicon.ico
+    - services.html
 
 website:
   title: "Pablo G. Baretto"
@@ -24,8 +25,6 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Services"
-        href: services.qmd
       - text: "Resume"
         href: resume.qmd
       - text: "Resources"
