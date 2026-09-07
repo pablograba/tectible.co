@@ -1,83 +1,71 @@
 # Pablo G. Baretto
 
-Senior Software Engineer with over 20 years of experience as a Solutions Architect and Data Engineer. In recent years, I have specialized in developing AI applications and consulting companies on how to build reliable, production-grade AI solutions that actually reach production.
+20+ years as a solutions architect and data engineer. I specialize in production AI systems that ship: RAG, evals, search and the data platforms underneath them.
 
-I help companies to plan practical AI initiatives, design production-grade architectures, evaluate AI systems with real data and accelerate their AI engineering efforts.
+20+ years as a solutions architect and data engineer. I specialize in production AI systems that ship: RAG, evals, search and the data platforms underneath them.
 
-## [Request a Consultation](#)
-
-### Experience
-
-#### 2021 – Present: AI Architecture and Development Consultant (Freelance)
-
-I engage in long-term consulting commitments (up to 2 years) with mid-market companies and venture-backed startups, designing system architectures and leading development of core AI-driven functionalities. Projects focus on building production-grade, high-accuracy AI systems in regulated or data-intensive domains.
-
-**Healthcare Startup (USA)**  
-*AI-powered compliance platform that analyzes mental-health provider reports to ensure insurance compliance.*
-
-- **Problem:** Insurance payers reject claims at high rates due to imprecise or non-compliant language, causing revenue loss and administrative burden.  
-- **Solution:** Architected and developed the core generative AI compliance engine. Implemented a data-driven AI evaluation framework + human-in-the-loop error analysis to overcome LLM hallucinations and biases.  
-- **Results:** Achieved sustained **98% accuracy**. Only ~2 reports per day now require human review, drastically reducing manual effort while minimizing claim denial risks.
-
-**Legal SaaS Startup (Spain)**  
-*Agentic RAG-based AI chatbot SaaS that answers legal questions for users in Ecuador, grounded in current national laws (owned by a prominent law firm).*
-
-- **Problem:** Manual legal research was time-intensive and error-prone; keeping the knowledge base updated was slow and risked hallucinations or SLA penalties.  
-- **Solution:** Built an automated real-time data processing pipeline for laws + developed an agentic RAG application with precise citations and rigorous AI evaluation frameworks.  
-- **Results:** Reached **99% response accuracy**, reduced human review to **1%** of cases, and cut time spent answering client questions by ~**90%**.
-
-**Matchbook AI (USA)**  
-*SaaS master data management platform integrating and unifying company/asset data for S&P 500 clients.*
-
-- **Problem:** Fragmented, inconsistent records across sources led to poor insights, duplicates, and SLA breaches. Legacy Elasticsearch matching required heavy manual intervention.  
-- **Solution:** Designed and led development of a new ML/AI-based matching engine + full automation of the legacy Elasticsearch system.  
-- **Results:** Handles **~500 million** initial records + **~1 million daily** updates (15% above targets) and powers the core platform for ~50 S&P 500 clients. Legacy automation eliminated all manual processes, cut processing time by **35%**, and reduced SLA breaches to zero.
-
-**Sonarplatform.io (EU)**  
-*SaaS platform for blockchain transaction analytics and AI-driven trading insights.*
-
-- **Problem:** Indexing billions of transactions with low-latency queries was technically challenging and resource-intensive.  
-- **Solution:** Architected and led development of the core blockchain data platform (scalable ingestion, indexing, and query layers).  
-- **Results:** Indexes ~**1 billion** transaction records across 10+ Ethereum networks, handles **~3,000 tx/s** in real time, and delivers API responses in **\<800 ms** (p95).
-
-**AI driven Startup (USA)**  
-*SaaS platform for personalized AI chatbots/companions using users’ own data.*
-
-- **Problem:** Low-latency, high-accuracy search over large personal data volumes was difficult with traditional indexing.  
-- **Solution:** Architected the personal information search subsystem (high-throughput indexing pipeline + hybrid lexical + vector search backend).  
-- **Results:** Processes up to **200 MB/s** for thousands of users; search delivers highly accurate results in **\<500 ms**.
-
-#### 2015 – 2021: Logicalis (Spain)
-
-IT services and consulting firm (part of the global Logicalis Group) focused on AI, data analytics, cloud, and digital transformation. Progressed from Cloud Solutions Architect to Data Analytics Solutions Architect.
-
-**Key Projects (Telecom & Enterprise Clients):** - **Orange:** Architected and led development of a unified log and metrics processing platform (Elasticsearch-inspired stack).  
-**Results:** Reduced MTTD by **~55%**, MTTR by **45%**, unplanned downtime by **30–40%**, and manual log analysis effort by **\>60%**. - Delivered multiple production implementations and PoCs for **Vodafone, Telefónica, FNMT, Grupo Piñero, La Caixa, Ocaso, AENA**, and **Catalana Occidente**, enabling centralized observability and faster digital operations.
-
-#### 2006 – 2015: Senior Data Analytics Consultant
-
-Focused on analytics for IT monitoring and support systems.
-
-- **FacilDesk (Founder):** Open-source IT monitoring (Elasticsearch) + ticketing (OTRS) with analytics for Latin American mid-sized firms.  
-  Notable clients: Mitsubishi Motor Company (+67% customer satisfaction), Agroamerica, Cerámicas Caribe, Bancaribe (43% faster incident response).
-- **Sun Microsystems Contractor (Venezuela):** Data-centric monitoring for telcos (CANTV, Movilnet, Telefónica) and oil & gas (PDVSA, ENI).
-
-#### 2001 – 2006: Sun Microsystems (Venezuela)
-
-Java trainer and consulting in northern Latin America.
+I help mid-market companies adopt AI without assuming a fixed reference architecture stack, perfect data governance, or a specific vendor. I start from each company’s in-house capacity, privacy constraints, cost shape, existing IT-vendor agreements, and cloud footprint, then design and implement an AI stack that fits. As a result, adoption is low-risk, affordable, secure, scalable, and they take it on in stages.
 
 ------------------------------------------------------------------------
 
-### Certifications
+## Experience
 
-- **Google Cloud Professional Data Engineer** (2020)
-- **Elasticsearch Certified Engineer** (2020)
+### AI Architecture and Development Consultant
 
-### Education
+**2021 - Present**
 
-- **Systems Engineer**, Universidad de Los Andes (Venezuela), 2001
-- **Master’s in Marketing Management**, Universidad Complutense de Madrid (Spain)
+Long-term engagements (up to 2 years) with mid-market companies and venture-backed startups. For each client I start from use case, in-house capacity, privacy, cost shape, vendor agreements, and cloud footprint, then design and ship a production AI stack they can adopt in stages.
+
+- **Healthcare startup (USA):** Mental-health provider reports in a regulated setting. Assembled a generative AI compliance engine with data-driven evals and human-in-the-loop review, rather than a greenfield model stack. Sustained **98% accuracy**; ~2 reports/day still need human review.
+- **Legal SaaS (Spain):** Grounded answers over Ecuadorian law, without a cleaned corpus or a custom LLM. Built an agentic RAG chatbot with automated law-ingestion pipelines and citation-faithful answers. **99% response accuracy**, human review down to **1%**, time to answer cut ~**90%**.
+- **Matchbook AI (USA):** Master-data matching for ~50 S&P 500 clients. Records were messy and arriving continuously. Delivered an ML matching engine: **~500M** initial records + **~1M** daily updates (15% above target). Cut processing time **35%** and eliminated SLA breaches.
+- **Sonarplatform.io (EU):** Searchable analytics layer over on-chain data. Indexed ~**1B** transactions across 10+ Ethereum networks at **~3,000 tx/s**, API p95 **\<800 ms**.
+- **AI companion startup (USA):** Personal-data search under tight latency and ingest constraints. Assembled hybrid lexical + vector search rather than a single-vendor stack. Ingest up to **200 MB/s**; search latency **\<500 ms**.
+
+### Data Analytics Solutions Architect, Logicalis (Spain)
+
+**2015 - 2021**
+
+Progressed from Cloud Solutions Architect to Data Analytics Solutions Architect at a global IT services firm. Designed production data and analytics platforms around each client’s cloud footprint, existing tools, and operating constraints, rather than a standard reference architecture.
+
+- Architected and led Orange’s unified log and metrics platform on an Elasticsearch-inspired stack already compatible with their operations model. Reduced MTTD ~**55%**, MTTR **45%**, unplanned downtime **30-40%**, and manual log analysis **\>60%**.
+- Delivered production systems and PoCs for Vodafone, Telefónica, FNMT, Grupo Piñero, La Caixa, Ocaso, AENA, and Catalana Occidente, scoped to each organization’s capacity and vendor landscape.
+
+### Senior Data Analytics Consultant
+
+**2006 - 2015**
+
+Analytics for IT monitoring and support across Latin America. The usual path was to assemble open-source and existing vendor tools to fit mid-sized firms’ budgets and ops teams.
+
+- **FacilDesk (Founder):** Open-source IT monitoring (Elasticsearch) + ticketing (OTRS) with analytics for mid-sized firms. Mitsubishi Motor Company: **+67%** customer satisfaction. Bancaribe: **43%** faster incident response. Also Agroamerica, Cerámicas Caribe.
+- **Sun Microsystems contractor (Venezuela):** Data-centric monitoring assembled onto telco and oil & gas estates (CANTV, Movilnet, Telefónica, PDVSA, ENI).
+
+### Java Trainer and Consultant, Sun Microsystems (Venezuela)
+
+**2001 - 2006**
+
+Java training and consulting across northern Latin America.
 
 ------------------------------------------------------------------------
 
-[Request a Consultation](#)
+## Selected work
+
+**Holobrain.** Private, air-gapped AI stack for organizations whose privacy requirements rule out shared LLM APIs. Open-weights models and automated workflows run on the customer’s infrastructure. That is not the default for every client. [holobrain.ai](https://holobrain.ai)
+
+**FacilDesk.** Open-source IT monitoring and ticketing with analytics, assembled for mid-sized firms in Latin America that needed production ops tooling without a large custom build.
+
+------------------------------------------------------------------------
+
+## Certifications
+
+**Google Cloud Professional Data Engineer**, 2020
+
+**Elasticsearch Certified Engineer**, 2020
+
+------------------------------------------------------------------------
+
+## Education
+
+**Universidad de Los Andes (Venezuela)**, Systems Engineer, 2001
+
+**Universidad Complutense de Madrid (Spain)**, Master’s in Marketing Management

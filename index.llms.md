@@ -18,7 +18,7 @@ I serve as a technology consultant to Private Equity teams and Search Funds, hel
 - Hunting for the hidden signals, like undocumented legacy systems or siloed data that could ruin automation budgets.
 - Planning and managing the execution of tech and AI implementation roadmaps, ensuring the new systems are actually adopted by frontline workers.
 
-[Get a Clear AI Roadmap for Your Target Business](services.llms.md)
+[Get a Clear AI Roadmap for Your Target Business](#)
 
 ## 2. Private, Air-Gapped AI
 

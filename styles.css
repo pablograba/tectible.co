@@ -79,51 +79,6 @@ h2 {
   scroll-margin-top: 4.5rem;
 }
 
-/* Service list spacing */
-/* Service cards */
-.service-card {
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 6px;
-  padding: 1.25rem 1.25rem 1rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  transition: border-color 0.15s ease;
-}
-
-.service-card:hover {
-  border-color: rgba(255, 255, 255, 0.35);
-}
-
-.service-card h3 {
-  margin-top: 0;
-  font-size: 1rem;
-  font-weight: 700;
-  text-align: center;
-  padding-bottom: 0.6rem;
-  margin-bottom: 0.85rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.22);
-  min-height: 3.5em;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-}
-
-.service-card p {
-  font-size: 0.9rem;
-}
-
-.service-card p:last-child {
-  margin-top: auto;
-  margin-bottom: 0;
-  padding-top: 0.75rem;
-}
-
-.service-card a {
-  font-size: 0.85rem;
-  text-decoration: none;
-}
-
 hr {
   margin: 2.5rem 0;
   opacity: 0.15;
@@ -133,37 +88,8 @@ hr {
   background-color: var(--bs-body-bg) !important;
 }
 
-.consultation-note {
-  color: #9aa0a6;
-}
-
-.cta-with-note {
-  margin: 1.15rem 0 0.25rem;
-}
-
-.cta-with-note .consultation-note {
-  margin-top: 0.55rem;
-  max-width: 38rem;
-  font-size: 0.75rem;
-  font-style: italic;
-  line-height: 1.45;
-  color: #2ecc71;
-}
-
-.cta-with-note .consultation-note p {
-  margin-bottom: 0;
-}
-
 .consultation-cta {
   margin-top: 1.15rem;
-  margin-bottom: 0;
-}
-
-.consultation-section > p {
-  margin-bottom: 0.2rem;
-}
-
-.consultation-note p {
   margin-bottom: 0;
 }
 
@@ -251,93 +177,5 @@ hr {
     width: 2rem;
     height: 2rem;
     font-size: 0.85rem;
-  }
-}
-
-/* Vertical M&A pipeline workflow */
-.pipeline-workflow {
-  margin: 1.75rem 0 0.5rem;
-}
-
-.pipeline-step {
-  position: relative;
-  display: grid;
-  grid-template-columns: 2.5rem 1fr;
-  column-gap: 1.15rem;
-  padding-bottom: 2.25rem;
-  scroll-margin-top: 4.5rem;
-}
-
-.pipeline-step:last-child {
-  padding-bottom: 0;
-}
-
-.pipeline-step:not(:last-child)::before {
-  content: "";
-  position: absolute;
-  left: 1.15rem;
-  top: 2.5rem;
-  bottom: 0;
-  width: 2px;
-  background: rgba(255, 255, 255, 0.22);
-  transform: translateX(-50%);
-}
-
-.pipeline-marker {
-  width: 2.3rem;
-  height: 2.3rem;
-  border-radius: 50%;
-  border: 2px solid var(--bs-link-color);
-  background: var(--bs-body-bg);
-  color: var(--bs-link-color);
-  font-weight: 700;
-  font-size: 0.95rem;
-  line-height: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 1;
-  margin-top: 0.15rem;
-}
-
-.pipeline-marker p {
-  margin: 0;
-}
-
-.pipeline-body {
-  min-width: 0;
-}
-
-.pipeline-body > h3 {
-  margin-top: 0.2rem;
-  margin-bottom: 0.2rem;
-}
-
-.pipeline-stage {
-  color: #9aa0a6;
-  font-size: 0.85rem;
-  letter-spacing: 0.02em;
-  margin-bottom: 0.85rem;
-}
-
-.pipeline-stage p {
-  margin: 0;
-}
-
-@media (max-width: 575.98px) {
-  .pipeline-step {
-    column-gap: 0.85rem;
-    padding-bottom: 1.85rem;
-  }
-
-  .pipeline-marker {
-    width: 2rem;
-    height: 2rem;
-    font-size: 0.85rem;
-  }
-
-  .pipeline-step:not(:last-child)::before {
-    left: 1rem;
-    top: 2.2rem;
   }
 }
