@@ -23,10 +23,10 @@ I help mid-market companies adopt AI without assuming a fixed reference architec
 
 **2021 - Present**
 
-Long-term engagements (up to 2 years) with mid-market companies and venture-backed startups. For each client I start from use case, in-house capacity, privacy, cost shape, vendor agreements, and cloud footprint, then design and ship a production AI stack they can adopt in stages.
+Long-term engagements (up to 2 years) with mid-market companies and venture-backed startups. 
 
 - **Healthcare startup (USA):** Mental-health provider reports in a regulated setting. Assembled a generative AI compliance engine with data-driven evals and human-in-the-loop review, rather than a greenfield model stack. Sustained **98% accuracy**; ~2 reports/day still need human review.
-- **Legal SaaS (Spain):** Grounded answers over Ecuadorian law, without a cleaned corpus or a custom LLM. Built an agentic RAG chatbot with automated law-ingestion pipelines and citation-faithful answers. **99% response accuracy**, human review down to **1%**, time to answer cut ~**90%**.
+- **Legal SaaS (Spain):** Grounded answers over country law, without a cleaned corpus or a custom LLM. Built an agentic RAG chatbot with automated law-ingestion pipelines and citation-faithful answers. **99% response accuracy**, human review down to **1%**, time to answer cut ~**90%**.
 - **Matchbook AI (USA):** Master-data matching for ~50 S&P 500 clients. Records were messy and arriving continuously. Delivered an ML matching engine: **~500M** initial records + **~1M** daily updates (15% above target). Cut processing time **35%** and eliminated SLA breaches.
 - **Sonarplatform.io (EU):** Searchable analytics layer over on-chain data. Indexed ~**1B** transactions across 10+ Ethereum networks at **~3,000 tx/s**, API p95 **<800 ms**.
 - **AI companion startup (USA):** Personal-data search under tight latency and ingest constraints. Assembled hybrid lexical + vector search rather than a single-vendor stack. Ingest up to **200 MB/s**; search latency **<500 ms**.
@@ -60,8 +60,6 @@ Java training and consulting across northern Latin America.
 ## Selected work
 
 **Holobrain.** Private, air-gapped AI stack for organizations whose privacy requirements rule out shared LLM APIs. Open-weights models and automated workflows run on the customer's infrastructure. That is not the default for every client. [holobrain.ai](https://holobrain.ai)
-
-**FacilDesk.** Open-source IT monitoring and ticketing with analytics, assembled for mid-sized firms in Latin America that needed production ops tooling without a large custom build.
 
 ---
 
