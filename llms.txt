@@ -1,9 +1,9 @@
 # Pablo G. Baretto
 
-> Practical AI consulting for PE and search funds acquiring traditional businesses, plus private air-gapped LLM deployments.
+> I implement AI stacks for mid-size companies from proven, reliable components—chosen for in-house capacity, privacy, cost, vendor agreements, and cloud footprint.
 
 ## Pages
 
 - [Resources](https://tectible.co/resources.llms.md)
 - [Pablo G. Baretto](https://tectible.co/resume.llms.md)
-- [Hello, I'm Pablo G. Baretto.](https://tectible.co/index.llms.md)
+- [Pablo G. Baretto](https://tectible.co/index.llms.md)

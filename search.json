@@ -51,22 +51,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello, I’m Pablo G. Baretto.",
+    "title": "Pablo G. Baretto",
     "section": "",
-    "text": "A 20-year software engineer transforming complex business needs into value through technology.\nToday, I leverage my engineering background to focus on two specific, practical areas:"
-  },
-  {
-    "objectID": "index.html#enterprise-grade-ai-applied-to-boring-business-ma",
-    "href": "index.html#enterprise-grade-ai-applied-to-boring-business-ma",
-    "title": "Hello, I’m Pablo G. Baretto.",
-    "section": "1. Enterprise-Grade AI applied to “Boring” Business M&A",
-    "text": "1. Enterprise-Grade AI applied to “Boring” Business M&A\nI serve as a technology consultant to Private Equity teams and Search Funds, helping them assess, plan and deploy AI in traditional business acquisitions:\n\nIdentifying the operational bottlenecks where automation will drive SDE/EBITDA wins.\nHunting for the hidden signals, like undocumented legacy systems or siloed data that could ruin automation budgets.\nPlanning and managing the execution of tech and AI implementation roadmaps, ensuring the new systems are actually adopted by frontline workers.\n\nGet a Clear AI Roadmap for Your Target Business"
-  },
-  {
-    "objectID": "index.html#private-air-gapped-ai",
-    "href": "index.html#private-air-gapped-ai",
-    "title": "Hello, I’m Pablo G. Baretto.",
-    "section": "2. Private, Air-Gapped AI",
-    "text": "2. Private, Air-Gapped AI\nFor organizations that need the operational power of Large Language Models (LLMs) but have strict data privacy needs, I built Holobrain.\nIt is a scalable, completely private AI stack. I help companies deploy open-weights models and automated workflows entirely within their own infrastructure, ensuring that proprietary company data never leaks to public APIs.\nLearn more about secure AI deployments at Holobrain.ai"
+    "text": "Pablo G. Baretto here.\nYou might need more than ChatGPT or Claude if you want your company to embrace AI. You need an AI stack that makes those models useful for your company’s reality. Since there is no single AI stack that fits every company, the stack you need should be built from proven, reliable components, chosen according to your in-house capacity and skills, privacy constraints, cost structure, existing IT-vendor agreements and cloud footprint.\nI implement AI stacks for mid-size companies using lessons from past mistakes: low and controlled risk, scalability and security from day one, a staged rollout, and a preference for assembling existing production-grade components over custom development when possible.\nI’m a solutions architect and data engineer with 20+ years of experience and several successful cases building production AI apps and AI stacks for companies.\nAsk me what I’d put in your stack"
   }
 ]
