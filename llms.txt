@@ -1,6 +1,6 @@
 # Pablo G. Baretto
 
-> I implement AI stacks for mid-size companies from proven, reliable components—chosen for in-house capacity, privacy, cost, vendor agreements, and cloud footprint.
+> Most mid-market companies don’t have an AI problem. They have a process, data, and ownership problem that AI vendors are happy to wrap in a chatbot.
 
 ## Pages
 
