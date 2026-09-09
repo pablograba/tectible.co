@@ -1,7 +1,7 @@
 ---
 pagetitle: "AI Stacks for Mid-Size Companies"
 title: "Pablo G. Baretto"
-description: "I implement AI stacks for mid-size companies from proven, reliable components—chosen for in-house capacity, privacy, cost, vendor agreements, and cloud footprint."
+description: "Most mid-market companies don’t have an AI problem. They have a process, data, and ownership problem that AI vendors are happy to wrap in a chatbot."
 image: "/images/pablo_baretto_headshot.jpg"
 include-in-header:
   - text: |
@@ -20,11 +20,18 @@ include-in-header:
 ::: {.g-col-12 .g-col-md-9 .hero-copy}
 # Pablo G. Baretto here.
 
-You might need more than ChatGPT or Claude if you want your company to embrace AI. You need an AI stack that makes those models useful for your company’s reality. Since there is no single AI stack that fits every company, the stack you need should be built from proven, reliable components, chosen according to your in-house capacity and skills, privacy constraints, cost structure, existing IT-vendor agreements and cloud footprint.
+Most mid-market companies don’t have an AI problem. They have a process, data, and ownership problem that AI vendors are happy to wrap in a chatbot.
 
-I implement AI stacks for mid-size companies using lessons from past mistakes: low and controlled risk, scalability and security from day one, a staged rollout, and a preference for assembling existing production-grade components over custom development when possible.
+I work with companies of 50 to 300 people. They already have at least ERP and CRM, a small IT team, and a leadership group under pressure to “do something with AI.” I help them decide what is worth building, what to buy, and what to ignore, so the company gets value from AI.
 
-I’m a solutions architect and data engineer with 20+ years of experience and several successful cases building production AI apps and AI stacks for companies.
+Typical work takes 4 to 16 weeks:
+
+- I start from the company’s constraints and design an AI stack around them: in-house capacity and skills, privacy requirements, preferred cost structure, existing IT-vendor agreements, and cloud or on-prem footprint.
+- Then I implement the stack, starting with a few common and low-risk use cases. That is usually an internal chatbot and an accurate knowledge base (RAG) application. After that, if they want, a stack the internal team can run. I don’t stay forever and I don’t sell software.
+
+Recently I implemented an AI stack for a biotechnology R&D firm. It eliminated shadow AI and cut research time by 50% average, with an internal scientific knowledge base they can query in natural language.
+
+Over the last 20+ years I’ve been doing IT solutions architecture, data engineering, and in recent years AI software engineering.
 
 [Ask me what I’d put in your stack](#){.btn .btn-primary .btn-lg .consultation-cta data-tally-open="eqKl2J" data-tally-emoji-text="👋" data-tally-emoji-animation="wave"}
 :::

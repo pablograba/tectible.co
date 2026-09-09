@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Pablo G. Baretto"
-  description: "I implement AI stacks for mid-size companies from proven, reliable components—chosen for in-house capacity, privacy, cost, vendor agreements, and cloud footprint."
+  description: "Most mid-market companies don’t have an AI problem. They have a process, data, and ownership problem that AI vendors are happy to wrap in a chatbot."
   site-url: "https://tectible.co"
   image: "/images/pablo_baretto_headshot.jpg"
   favicon: "favicon.png"
